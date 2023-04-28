@@ -1,0 +1,12 @@
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.csproj.AssemblyReference.cache
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.csproj.SuggestedBindingRedirects.cache
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.Properties.Resources.resources
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.csproj.GenerateResource.cache
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\bin\Debug\Gameplay.exe.config
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\bin\Debug\Gameplay.exe
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\bin\Debug\Gameplay.pdb
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.exe
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.pdb
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.frmMain.resources
+C:\Users\hung\Desktop\Build The Bridge\Gameplay\obj\Debug\Gameplay.frmWelcome.resources
